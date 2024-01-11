@@ -20,7 +20,10 @@
   },
   "devDependencies": {
     "editor": "vscode",
-    "fuel": "coffe"
+    "fuel": [
+      "coffee",
+      "snus"
+    ],
   }
 }
 ```
